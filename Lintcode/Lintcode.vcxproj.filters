@@ -21,5 +21,16 @@
     <ClCompile Include="Anagrams.h">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="compare-strings.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="strstr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AnagramsGroup.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
